@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://gaviehigh.moolcathgames.com/sitemap.xml
